@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebAPIOnly", "AspNetCoreWebAPIOnly\AspNetCoreWebAPIOnly.csproj", "{BCD0FC11-25F6-4EAD-AC87-04DC5B64C5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD0FC11-25F6-4EAD-AC87-04DC5B64C5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD0FC11-25F6-4EAD-AC87-04DC5B64C5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD0FC11-25F6-4EAD-AC87-04DC5B64C5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD0FC11-25F6-4EAD-AC87-04DC5B64C5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B4EACA-198A-4925-9519-345ABCF38720}
+	EndGlobalSection
+EndGlobal
